@@ -1,0 +1,6 @@
+2022-04-26 01:01:23 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/ubuntu/ddos/support/captures.pcap
+2022-04-26 01:01:23 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/ubuntu/ddos/support/csv/
+2022-04-26 01:01:24 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2022-04-26 01:03:38 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/ubuntu/ddos/support/captures.pcap
+2022-04-26 01:03:38 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/ubuntu/ddos/support/csv/
+2022-04-26 01:03:39 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
